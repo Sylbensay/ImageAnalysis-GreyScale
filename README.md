@@ -1,0 +1,1 @@
+# ImageAnalysis-GreyScale This work  investigates the use of grayscale and intensity of image. It also expolres the use of masking to select regions of an image that will be used to apply the threshold technique. 
